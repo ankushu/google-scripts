@@ -1,5 +1,5 @@
 /**
- * organizeEmail
+ * OrganizeGmail
  *
  * specifications:
  * ***************
