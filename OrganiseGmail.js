@@ -31,19 +31,19 @@ function organizeEmail_Main() {
       type: "category",
       keyword: "social",
       minDeleteAge: "30d",
-      labelKeep: labelKeep,
+      labelKeep: labelKeep
     },
     {
       type: "category",
       keyword: "promotions",
       minDeleteAge: "360d",
-      labelKeep: labelKeep,
+      labelKeep: labelKeep
       // },
       //     {
       //     type: 'label',
       //     keyword: 'ml',
       //     minDeleteAge: '60d'
-    },
+    }
   ];
 
   // dry run  : set to false // set it to true only after tests :)
